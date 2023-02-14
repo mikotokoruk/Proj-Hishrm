@@ -1,0 +1,20 @@
+package ${package.Service};
+
+import ${package.Entity}.${entity};
+import ${superServiceClassPackage};
+
+/**
+ * @program: authority
+ * @ClassName $!{table.comment} service
+ * @description:
+ * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @create: ${date}
+ * @Version 2.0
+ **/
+#if(${kotlin})
+interface ${table.serviceName} : ${superServiceClass}<${entity}>
+#else
+public interface ${table.serviceName} extends ${superServiceClass}<${entity}> {
+
+        }
+#end

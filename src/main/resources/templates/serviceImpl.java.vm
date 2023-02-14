@@ -1,0 +1,26 @@
+package ${package.ServiceImpl};
+
+import ${package.Entity}.${entity};
+import ${package.Mapper}.${table.mapperName};
+import ${package.Service}.${table.serviceName};
+import ${superServiceImplClassPackage};
+import org.springframework.stereotype.Service;
+
+/**
+ * @program: authority
+ * @ClassName $!{table.comment} service实现类
+ * @description:
+ * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @create: ${date}
+ * @Version 2.0
+ **/
+@Service
+#if(${kotlin})
+open class ${table.serviceImplName} : ${superServiceImplClass}<${table.mapperName}, ${entity}>(), ${table.serviceName} {
+
+        }
+#else
+        public class ${table.serviceImplName} extends ${superServiceImplClass}<${table.mapperName}, ${entity}>implements ${table.serviceName} {
+
+        }
+#end
