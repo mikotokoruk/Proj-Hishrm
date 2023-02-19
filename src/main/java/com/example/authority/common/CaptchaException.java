@@ -3,10 +3,10 @@ package com.example.authority.common;
 import javax.security.sasl.AuthenticationException;
 
 /**
- * @program: authority
+ * @program: hishrm
  * @ClassName CaptchaException
  * @description:
- * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @author: glb
  * @create: 2023-02-01 16:10
  * @Version 2.0
  **/

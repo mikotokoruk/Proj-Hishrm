@@ -14,10 +14,10 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @program: authority
+ * @program: hishrm
  * @ClassName AopAspect
  * @description:
- * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @author: glb
  * @create: 2023-02-06 21:51
  * @Version 2.0
  **/

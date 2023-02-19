@@ -5,10 +5,10 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @program: authority 返回数据封装类
+ * @program: hishrm 返回数据封装类
  * @ClassName Result
  * @description:
- * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @author: glb
  * @create: 2023-02-01 16:11
  * @Version 1.0
  **/

@@ -1,10 +1,10 @@
 package com.example.authority.common;
 
 /**
- * @program: authority 常量静态类
+ * @program: hishrm 常量静态类
  * @ClassName Constant
  * @description:
- * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @author: glb
  * @create: 2023-02-01 16:11
  * @Version 1.0
  **/
