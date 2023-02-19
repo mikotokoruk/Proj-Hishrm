@@ -5,10 +5,10 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.support.ReloadableResourceBundleMessageSource;
 
 /**
- * @program: authority
+ * @program: hishrm
  * @ClassName Reloadmessageconfig springsecurity中文
  * @description:
- * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @author: glb
  * @create: 2023-02-04 19:57
  * @Version 1.0
  **/

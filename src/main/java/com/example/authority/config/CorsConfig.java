@@ -11,10 +11,10 @@ import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @program: authority 跨域处理类
+ * @program: hishrm 跨域处理类
  * @ClassName CorsConfig
  * @description:
- * @author: 哔哩哔哩 菜鸟程序员小胖 微信navicat15获取源码
+ * @author: glb
  * @create: 2023-02-01 16:08
  * @Version 1.0
  **/
